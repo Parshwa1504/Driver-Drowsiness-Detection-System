@@ -47,7 +47,7 @@ OpenCV is been used for gathering the images from webcam and feed them into a De
 
 * Prediction: Eyes Closed, if the score is greater than 20. Rings an alarm
 
-![alt text]()
+![alt text](Images/closed.png)
 
 ## Codes: 
 "Mpdel.py" contains the code used to build the CNN classifier model.
