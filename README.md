@@ -43,7 +43,7 @@ OpenCV is been used for gathering the images from webcam and feed them into a De
 
 * Prediction: Eyes Open, No alarm
 
-![alt text]()
+![alt text](Images/Open.png)
 
 * Prediction: Eyes Closed, if the score is greater than 20. Rings an alarm
 
